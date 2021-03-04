@@ -54,7 +54,7 @@ plt.show()
 # plt.show()
 
 
-
+# efficiency of lagging pf
 # for i in range(0,100,5):
 # 	I.append(i)
 # 	delta1 = math.asin( 0.0066*i)
